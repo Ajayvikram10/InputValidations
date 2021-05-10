@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "create-react-app": "^1.4.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
